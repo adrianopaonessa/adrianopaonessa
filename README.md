@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=adrianopaonessaSSH&color=2D9930&style=flat-square)
 
 ## 🧑‍💻 About me
-Hi, my name is **[Adriano][Adriano Celentano]**.
+Hi, my name is **[Adriano Paonessa][Adriano Celentano]**.
 
 I'm a Full-Stack Developer from Italy. I have a passion for technology and I'm always looking for new challenges. I'm constantly striving to improve my skills and stay up-to-date with the latest technologies.
 
