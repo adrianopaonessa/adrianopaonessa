@@ -32,6 +32,6 @@ These are my favorite tech stack for building all kinds of stuff.
 
 
 
-[Adriano Celentano]:            https://it.wikipedia.org/wiki/Adriano_Celentano
+[Adriano Celentano]:            https://en.wikipedia.org/wiki/Adriano_Celentano
 [Roulette Scalfaro]:            https://github.com/adrianopaonessa/roulette-scalfaro
 [GitHub Readme Stats]:          https://github.com/adrianopaonessa/github-readme-stats
