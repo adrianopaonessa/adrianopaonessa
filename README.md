@@ -3,7 +3,7 @@
 ## 🧑‍💻 About me
 Hi, my name is **[Adriano][Adriano Celentano]**.
 
-I'm a Full-Stack Developer from 🇮🇹 Italy. I have a passion for technology and I'm always looking for new challenges. I'm constantly striving to improve my skills and stay up-to-date with the latest technologies.
+I'm a Full-Stack Developer from Italy. I have a passion for technology and I'm always looking for new challenges. I'm constantly striving to improve my skills and stay up-to-date with the latest technologies.
 
 ## ℹ️ My current Discord status
 <p style="text-align: center;">
