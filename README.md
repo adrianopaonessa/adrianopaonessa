@@ -14,7 +14,7 @@ I'm a Full-Stack Developer from Italy. I have a passion for technology and I'm a
 
 ## 📂 My projects
 * 🛠️ **I'm working on:**
-  * [Roulette Scalfaro] (Private repository) - is a web application that features a random number generator. It is named after a school called Ercolino Scalfaro, giving it a roulette-style appearance. The application allows users to interact with the random number generator, which randomly selects a number.
+  * [Roulette Scalfaro] (Private repository) - is a web application that features a random number generator. It is named after a school called Ercolino Scalfaro, giving it a roulette-style appearance. The application is used to call a random student to the teacher's desk during lessons to ask him questions.
 
 * 🕑 **Future projects**
   * [MySticky Text] (Public repository)
