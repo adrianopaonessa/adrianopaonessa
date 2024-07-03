@@ -22,7 +22,7 @@ I'm a Full-Stack Developer from Italy. I have a passion for technology and I'm a
   * [Roulette Scalfaro] (Private repository) - is a web application that features a random number generator. It is named after a school called Ercolino Scalfaro, giving it a roulette-style appearance. The application is used to call a random student to the teacher's desk during lessons to ask him questions.
 
 * 🕑 **Future projects**
-  * [LizaNotes]
+  * [LizaNotes] - A sticky note application for mobile and desktop with many features and customizations.
 
 
 ---
