@@ -18,6 +18,7 @@ I'm a Full-Stack Developer from Italy. I have a passion for technology and I'm a
   * [Roulette Scalfaro Old] (Private repository) - (OLD VERSION) is a web application that features a random number generator. It is named after a school called Ercolino Scalfaro, giving it a roulette-style appearance. The application is used to call a random student to the teacher's desk during lessons to ask him questions.
 
 * 🛠️ **I'm working on:**
+  * [Personal website] (Private repository) - My personal website, nothing special ^^;
   * [Roulette Scalfaro] (Private repository) - is a web application that features a random number generator. It is named after a school called Ercolino Scalfaro, giving it a roulette-style appearance. The application is used to call a random student to the teacher's desk during lessons to ask him questions.
 
 * 🕑 **Future projects**
@@ -37,6 +38,7 @@ These are my favorite tech stack for building all kinds of stuff.
 
 
 [Adriano Celentano]:            https://en.wikipedia.org/wiki/Adriano_Celentano
+[Personal website]:             https://github.com/adrianopaonessa/adriano-website
 [Roulette Scalfaro]:            https://github.com/adrianopaonessa/roulette-scalfaro
 [Roulette Scalfaro Old]:        https://github.com/adrianopaonessa/roulette-scalfaro-old
 [Generatore Bollettini]:        https://github.com/adrianopaonessa/generatore-bollettini
