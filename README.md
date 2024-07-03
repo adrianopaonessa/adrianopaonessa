@@ -13,6 +13,10 @@ I'm a Full-Stack Developer from Italy. I have a passion for technology and I'm a
 ---
 
 ## 📂 My projects
+* 🧰 **Completed projects:**
+  * [Generatore Bollettini] (Private repository) - is a web application that allows you to generate postal slips 123 and divide them into installments.
+  * [Roulette Scalfaro Old] (Private repository) - (OLD VERSION) is a web application that features a random number generator. It is named after a school called Ercolino Scalfaro, giving it a roulette-style appearance. The application is used to call a random student to the teacher's desk during lessons to ask him questions.
+
 * 🛠️ **I'm working on:**
   * [Roulette Scalfaro] (Private repository) - is a web application that features a random number generator. It is named after a school called Ercolino Scalfaro, giving it a roulette-style appearance. The application is used to call a random student to the teacher's desk during lessons to ask him questions.
 
@@ -34,4 +38,6 @@ These are my favorite tech stack for building all kinds of stuff.
 
 [Adriano Celentano]:            https://en.wikipedia.org/wiki/Adriano_Celentano
 [Roulette Scalfaro]:            https://github.com/adrianopaonessa/roulette-scalfaro
+[Roulette Scalfaro Old]:        https://github.com/adrianopaonessa/roulette-scalfaro-old
+[Generatore Bollettini]:        https://github.com/adrianopaonessa/generatore-bollettini
 [GitHub Readme Stats]:          https://github.com/adrianopaonessa/github-readme-stats
