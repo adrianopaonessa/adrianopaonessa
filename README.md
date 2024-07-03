@@ -7,7 +7,7 @@ I'm a Full-Stack Developer from Italy. I have a passion for technology and I'm a
 
 ## ℹ️ My current Discord status
 <p style="text-align: center;">
-    <img src="https://lanyard.cnrad.dev/api/324966723960700938?idleMessage=Probabilmente%20sto%20ascoltando%20Spotify">
+    <img src="https://lanyard.cnrad.dev/api/324966723960700938?idleMessage=Probably%20doing%20some%20irl%20side%20quest%20:/">
 </p>
 
 ---
