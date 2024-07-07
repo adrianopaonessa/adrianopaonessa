@@ -33,11 +33,21 @@ These are my favorite tech stack for building all kinds of stuff.
    * **Tools** - Github, VS Code, Figma
 
 
+---
+
+### 🔗 You can find me here
+   * **Instagram** - [@adriano.paonessa](https://www.instagram.com/adriano.paonessa/)
+   * **Discord** - Username: adriano.paonessa
+   * **Linkedin** - [Adriano Paonessa](https://www.linkedin.com/in/adriano-paonessa-34037429a/)
+   * **X - Twitter** - [@adriano.paonessa](https://x.com/adrianopaonessa)
+
+
 
 
 
 
 [Adriano Celentano]:            https://en.wikipedia.org/wiki/Adriano_Celentano
+
 [Personal website]:             https://github.com/adrianopaonessa/adriano-website
 [Roulette Scalfaro]:            https://github.com/adrianopaonessa/roulette-scalfaro
 [Roulette Scalfaro Old]:        https://github.com/adrianopaonessa/roulette-scalfaro-old
