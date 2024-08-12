@@ -16,7 +16,8 @@ I'm a Full-Stack Developer from Italy. I have a passion for technology and I'm a
 * 🧰 **Completed projects:**
   * [Generatore Bollettini] (Private repository) - is a web application that allows you to generate postal slips 123 and divide them into installments.
   * [Roulette Scalfaro Old] (Private repository) - (OLD VERSION) is a web application that features a random number generator. It is named after a school called Ercolino Scalfaro, giving it a roulette-style appearance. The application is used to call a random student to the teacher's desk during lessons to ask him questions.
-  * [Flowers] (Private repository) - A simple website that generates a flower with X petals, the number of petals depends on the day of the week and each week a new flower is generated saving the previous one in a library. Generation starts from 07/28/2024 which is the engagement date.
+  * [Flowers V1] (Private repository) - A simple website that generates a flower with X petals, the number of petals depends on the day of the week and each week a new flower is generated saving the previous one in a library. Generation starts from 07/28/2024 which is the engagement date.
+  * [Flowers V2] (Private repository) - Same project as V1 but with code and visual improvements plus new features.
 
 * 🛠️ **I'm working on:**
   * [Personal website] (Private repository) - My personal website, nothing special ^^;
@@ -50,7 +51,8 @@ These are my favorite tech stack for building all kinds of stuff.
 [Adriano Celentano]:            https://en.wikipedia.org/wiki/Adriano_Celentano
 
 [Personal website]:             https://github.com/adrianopaonessa/adriano-website
-[Flowers]:                      https://github.com/adrianopaonessa/flowers
+[Flowers V1]:                   https://github.com/adrianopaonessa/flowers-v1
+[Flowers V2]:                   https://github.com/adrianopaonessa/flowers-v2
 [Roulette Scalfaro]:            https://github.com/adrianopaonessa/roulette-scalfaro
 [Roulette Scalfaro Old]:        https://github.com/adrianopaonessa/roulette-scalfaro-old
 [Generatore Bollettini]:        https://github.com/adrianopaonessa/generatore-bollettini
