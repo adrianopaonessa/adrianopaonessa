@@ -14,6 +14,7 @@ I'm a Full-Stack Developer from Italy. I have a passion for technology and I'm a
 
 ## 📂 My projects
 * 🧰 **Completed projects:**
+  * [Advanced IDE Launcher] (Public repository) - This is an "action" for Linux Mint (Cinnamon) version 22+ that let you open a directory with your favorite IDE just with a right-click.
   * [Generatore Bollettini] (Private repository) - is a web application that allows you to generate postal slips 123 and divide them into installments.
   * [Roulette Scalfaro Old] (Private repository) - (OLD VERSION) is a web application that features a random number generator. It is named after a school called Ercolino Scalfaro, giving it a roulette-style appearance. The application is used to call a random student to the teacher's desk during lessons to ask him questions.
   * [Flowers V1] (Private repository) - A simple website that generates a flower with X petals, the number of petals depends on the day of the week and each week a new flower is generated saving the previous one in a library. Generation starts from 07/28/2024 which is the engagement date.
@@ -53,6 +54,7 @@ These are my favorite tech stack for building all kinds of stuff.
 [Personal website]:             https://github.com/adrianopaonessa/adriano-website
 [Flowers V1]:                   https://github.com/adrianopaonessa/flowers-v1
 [Flowers V2]:                   https://github.com/adrianopaonessa/flowers-v2
+[Advanced IDE Launcher]:        https://github.com/adrianopaonessa/cinnamon-spices-actions/tree/master/ide-launcher-advanced%40adrianopaonessa
 [Roulette Scalfaro]:            https://github.com/adrianopaonessa/roulette-scalfaro
 [Roulette Scalfaro Old]:        https://github.com/adrianopaonessa/roulette-scalfaro-old
 [Generatore Bollettini]:        https://github.com/adrianopaonessa/generatore-bollettini
