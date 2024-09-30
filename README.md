@@ -53,7 +53,7 @@ These are my favorite tech stack for building all kinds of stuff.
 
 [Adriano Celentano]:            https://en.wikipedia.org/wiki/Adriano_Celentano
 
-[Personal website]:             https://github.com/adrianopaonessa/adriano-website
+[Personal website]:             https://github.com/adrianopaonessa/personal-website
 [Flowers V1]:                   https://github.com/adrianopaonessa/flowers-v1
 [Flowers V2]:                   https://github.com/adrianopaonessa/flowers-v2
 [Advanced IDE Launcher]:        https://github.com/adrianopaonessa/cinnamon-spices-actions/tree/master/ide-launcher-advanced%40adrianopaonessa
