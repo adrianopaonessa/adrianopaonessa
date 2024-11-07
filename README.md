@@ -3,7 +3,7 @@
 ## 🧑‍💻 About me
 Hi, my name is **[Adriano Paonessa][Adriano Celentano]**.
 
-I'm a Full-Stack Developer from Italy. I have a passion for technology and I'm always looking for new challenges. I'm constantly striving to improve my skills and stay up-to-date with the latest technologies.
+I make software that is held together by hopes dreams.
 
 ## ℹ️ My current Discord status
 <p style="text-align: center;">
