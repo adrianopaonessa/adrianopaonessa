@@ -3,7 +3,7 @@
 ## 🧑‍💻 About me
 Hi, my name is **[Adriano Paonessa][Adriano Celentano]**.
 
-I make software that is held together by hopes dreams.
+I make software that is held together by hopes and dreams.
 
 ## ℹ️ My current Discord status
 <p style="text-align: center;">
