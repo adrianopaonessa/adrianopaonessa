@@ -32,14 +32,6 @@ I make software that is held together by hopes and dreams.
 
 ---
 
-### 💻 Tech Stack
-These are my favorite tech stack for building all kinds of stuff.
-
-   * **Tools** - Github, VS Code, Figma
-
-
----
-
 ### 🔗 You can find me here
    * **Instagram** - [@adriano.paonessa](https://www.instagram.com/adriano.paonessa/)
    * **Discord** - Username: adriano.paonessa
@@ -53,7 +45,7 @@ These are my favorite tech stack for building all kinds of stuff.
 
 [Adriano Celentano]:            https://en.wikipedia.org/wiki/Adriano_Celentano
 
-[Personal website]:             https://github.com/adrianopaonessa/personal-website
+[Personal website]:             https://github.com/adrianopaonessa/adriano-website
 [Flowers V1]:                   https://github.com/adrianopaonessa/flowers-v1
 [Flowers V2]:                   https://github.com/adrianopaonessa/flowers-v2
 [Advanced IDE Launcher]:        https://github.com/adrianopaonessa/cinnamon-spices-actions/tree/master/ide-launcher-advanced%40adrianopaonessa
