@@ -5,11 +5,6 @@ Hi, my name is **[Adriano Paonessa][Adriano Celentano]**.
 
 I make software that is held together by hopes and dreams.
 
-## ℹ️ My current Discord status
-<p style="text-align: center;">
-    <img src="https://lanyard.cnrad.dev/api/324966723960700938?bg=171717&borderRadius=17px&idleMessage=I%E2%80%99m%20probably%20studying...&theme=dark&hideSpotify=true&showDisplayName=true" />
-</p>
-
 ---
 
 ## 📂 My projects
