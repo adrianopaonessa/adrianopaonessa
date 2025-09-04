@@ -82,6 +82,8 @@ A Raspberry Pi + Windows notification system with visual feedback and auto-recon
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianopaonessa&show_icons=true&title_color=4CAF50&text_color=ffffff&icon_color=4CAF50&border_color=4CAF50&bg_color=00000000&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianopaonessa&layout=compact&title_color=4CAF50&text_color=ffffff&border_color=4CAF50&bg_color=00000000&hide_border=false)
 
+*📝 Note: These stats are based solely on my public repositories and may not fully reflect my overall skills or private project work.*
+
 ---
 
 > *"If you're going to make something, make it with heart."*
