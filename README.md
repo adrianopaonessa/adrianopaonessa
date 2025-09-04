@@ -36,6 +36,8 @@ I'm a second-year Computer Science student with a strong background in both acad
 #### 🎮 Game Development
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![UEFN](https://img.shields.io/badge/UEFN-313131?style=for-the-badge&logo=fortnite&logoColor=white)
+![Verse](https://img.shields.io/badge/Verse-00C8EE?style=for-the-badge&logo=fortnite&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
@@ -49,6 +51,16 @@ I'm a second-year Computer Science student with a strong background in both acad
 A heartfelt paper-road puzzle game made with **Unreal Engine 5**.
 You control a hand-drawn car delivering letters of love and remembrance across an imaginary world.
 > *This project is very personal to me — a gentle reminder to cherish our loved ones while we can.*
+
+#### 🏆 [Gillette Bomber Cup 2023 & 2024 - Fortnite Map](https://gillettebombercup.com/)
+Official Fortnite creative map developed with **UEFN** and **Verse** for Gillette's events at **Milan Games Week 2023 and 2024**.
+I handled gameplay programming and event mechanics using Fortnite's Verse language.
+📸 [Event Gallery](https://www.instagram.com/p/CzhNAuzqHO_/?img_index=1)
+
+#### 🚙 [Air Action Vigorsol 2023 - Fortnite Map](https://www.instagram.com/p/Cy5qPQyIfWH/)
+**Official branded experience** for Vigorsol's "*Play it Fresh*" contest during Milan Games Week 2023.
+Developed a **custom ice-themed race map** in UEFN with Verse.
+📸 [Official Instagram Announcement](https://www.instagram.com/p/Cy5qPQyIfWH/)
 
 #### 🖥️ [Ptyxis Background Opacity Editor](https://github.com/adrianopaonessa/Ptyxis-Terminal-Transparency-Script)
 A Bash script to easily modify terminal transparency in Ptyxis via dconf. Supports both interactive and CLI modes.
@@ -73,4 +85,4 @@ A Raspberry Pi + Windows notification system with visual feedback and auto-recon
 ---
 
 > *"If you're going to make something, make it with heart."*
-> -- Me, probably 💚
+> -- Me, probably :3
