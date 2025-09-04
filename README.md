@@ -18,6 +18,7 @@ I'm a second-year Computer Science student with a strong background in both acad
 ![GNOME](https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 #### 💻 Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -39,7 +40,6 @@ I'm a second-year Computer Science student with a strong background in both acad
 ![UEFN](https://img.shields.io/badge/UEFN-313131?style=for-the-badge&logo=fortnite&logoColor=white)
 ![Verse](https://img.shields.io/badge/Verse-00C8EE?style=for-the-badge&logo=fortnite&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 > 🚧 I'm always learning new tools and frameworks, so this section will keep evolving!
 
