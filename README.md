@@ -26,6 +26,7 @@ I'm a second-year Computer Science student with a strong background in both acad
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Verse](https://img.shields.io/badge/Verse-00C8EE?style=for-the-badge&logo=fortnite&logoColor=white)
 
 #### 🌐 Web Development
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,7 +39,6 @@ I'm a second-year Computer Science student with a strong background in both acad
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![UEFN](https://img.shields.io/badge/UEFN-313131?style=for-the-badge&logo=fortnite&logoColor=white)
-![Verse](https://img.shields.io/badge/Verse-00C8EE?style=for-the-badge&logo=fortnite&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
 
 > 🚧 I'm always learning new tools and frameworks, so this section will keep evolving!
