@@ -50,7 +50,7 @@ I'm a second-year Computer Science student with a strong background in both acad
 #### 🎮 [Carlivery: A Letter to No One](https://adrianopaonessa.itch.io/carlivery-a-letter-to-no-one)
 A heartfelt paper-road puzzle game made with **Unreal Engine 5**.
 You control a hand-drawn car delivering letters of love and remembrance across an imaginary world.
-> *This project is very personal to me — a gentle reminder to cherish our loved ones while we can.*
+> *This project is very personal to me. A gentle reminder to cherish our loved ones while we can.*
 
 #### 🏆 [Gillette Bomber Cup 2023 & 2024 - Fortnite Map](https://gillettebombercup.com/)
 Official Fortnite creative map developed with **UEFN** and **Verse** for Gillette's events at **Milan Games Week 2023 and 2024**.
