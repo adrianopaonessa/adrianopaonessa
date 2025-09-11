@@ -53,7 +53,7 @@ You control a hand-drawn car delivering letters of love and remembrance across a
 > *This project is very personal to me. A gentle reminder to cherish our loved ones while we can.*
 
 #### 🏆 [Gillette Bomber Cup 2023 & 2024](https://gillettebombercup.com/)
-Official Fortnite creative map developed with **UEFN** and **Verse** for Gillette's events at **Milan Games Week 2023 and 2024**.
+**Official branded experience** developed with **UEFN** and **Verse** for Gillette's events at **Milan Games Week 2023 and 2024**.
 I handled gameplay programming and event mechanics using Fortnite's Verse language.
 📸 [Project Gallery](https://www.instagram.com/p/CzhNAuzqHO_/?img_index=1)
 
