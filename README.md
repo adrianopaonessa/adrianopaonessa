@@ -52,12 +52,12 @@ A heartfelt paper-road puzzle game made with **Unreal Engine 5**.
 You control a hand-drawn car delivering letters of love and remembrance across an imaginary world.
 > *This project is very personal to me. A gentle reminder to cherish our loved ones while we can.*
 
-#### 🏆 [Gillette Bomber Cup 2023 & 2024 - Fortnite Map](https://gillettebombercup.com/)
+#### 🏆 [Gillette Bomber Cup 2023 & 2024](https://gillettebombercup.com/)
 Official Fortnite creative map developed with **UEFN** and **Verse** for Gillette's events at **Milan Games Week 2023 and 2024**.
 I handled gameplay programming and event mechanics using Fortnite's Verse language.
 📸 [Project Gallery](https://www.instagram.com/p/CzhNAuzqHO_/?img_index=1)
 
-#### 🚙 [Air Action Vigorsol 2023 - Fortnite Map](https://www.instagram.com/p/Cy5qPQyIfWH/)
+#### 🚙 [Air Action Vigorsol 2023](https://www.instagram.com/p/Cy5qPQyIfWH/)
 **Official branded experience** for Vigorsol's "*Play it Fresh*" contest during Milan Games Week 2023.
 Developed a **custom ice-themed race map** in UEFN with Verse.
 📸 [Official Instagram Announcement](https://www.instagram.com/p/Cy5qPQyIfWH/)
