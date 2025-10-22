@@ -45,6 +45,24 @@ I'm a second-year Computer Science student with a strong background in both acad
 
 ---
 
+## 🎓 Certifications & Training
+
+### 🏆 Unreal Summer Camp 2025 - Prometeo Lab
+*Unreal Authorized Training Center - Gold Partner Epic Games*
+
+[![Unreal Summer Camp Badge](https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=163927794)](https://www.credential.net/5abc9486-2969-4c59-9bb9-c2dabe2ad657)
+
+**Skills Acquired:**
+- Blueprint Programming & Game Architecture  
+- UI Design & User Input Management
+- Physics and Collision Handling
+- Event Driven & Object Oriented Programming
+- Project Workflow Management
+
+*Certification issued on October 6, 2025*
+
+---
+
 ### 🌟 Featured Projects
 
 #### 🎮 [Carlivery: A Letter to No One](https://adrianopaonessa.itch.io/carlivery-a-letter-to-no-one)
