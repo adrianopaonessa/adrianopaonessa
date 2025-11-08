@@ -82,9 +82,6 @@ I handled gameplay programming and event mechanics using Fortnite's Verse langua
 Developed a **custom ice-themed race map** in UEFN with Verse.
 📸 [Official Instagram Announcement](https://www.instagram.com/p/Cy5qPQyIfWH/)
 
-#### 🖥️ [Ptyxis Background Opacity Editor](https://github.com/adrianopaonessa/Ptyxis-Terminal-Transparency-Script)
-A Bash script to easily modify terminal transparency in Ptyxis via dconf. Supports both interactive and CLI modes.
-
 #### 🚨 [Simple Alert System](https://github.com/adrianopaonessa/simple-raspberrypi-alert)
 A Raspberry Pi + Windows notification system with visual feedback and auto-reconnection features.
 
