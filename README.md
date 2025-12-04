@@ -1,107 +1,111 @@
-# 🐧 Hi, I'm Adriano Paonessa
-**Named after [Adriano Celentano](https://en.wikipedia.org/wiki/Adriano_Celentano), but I code instead of singing ^^;**
+<div align="center">
 
-**Computer Science Student** · **Lifelong Tinkerer** · **Passionate About Creative Coding & Meaningful Tech**
+  # 🐧 Hi, I'm Adriano Paonessa
+
+  **Named after [Adriano Celentano](https://en.wikipedia.org/wiki/Adriano_Celentano), but I code instead of singing ^^;**
+
+  <h3>
+    Creative Technologist · Game Engineer · Full-Stack Developer
+  </h3>
+
+  <p>
+    I build immersive digital experiences, from high-performance web applications to branded games. 
+    Currently a Computer Science student blending 15+ years of passion with academic rigor.
+  </p>
+
+  <a href="https://adrianopaonessa.it">
+    <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-10b981?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=white" alt="Visit Portfolio">
+  </a>
+
+</div>
 
 ---
 
-### 🧠 About Me
-I'm a second-year Computer Science student with a strong background in both academic and self-taught programming. I've been fascinated by computers and electronics since I was 5 years old, and I love building software that tells a story or solves real problems - whether it's a script, a game, or a hardware project.
+### 🚀 What I Do
+I specialize in bridging the gap between technical complexity and creative storytelling. My work spans across:
+* **Game Development:** Creating custom mechanics and environments in Unreal Engine 5, UEFN (Verse), and Godot.
+* **Full-Stack Web:** Building modern, reactive applications with Vue.js, Nuxt, and TypeScript.
+* **Systems & Tools:** Developing reverse-engineering tools, launchers, and automation scripts.
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 🐧 Systems & DevOps
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![GNOME](https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+<div align="center">
 
-#### 💻 Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Verse](https://img.shields.io/badge/Verse-00C8EE?style=for-the-badge&logo=fortnite&logoColor=white)
+#### 🐧 Systems & DevOps
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![GNOME](https://img.shields.io/badge/GNOME-4A86CF?style=flat-square&logo=gnome&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+
+#### 💻 Some of the programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Verse](https://img.shields.io/badge/Verse-00C8EE?style=flat-square&logo=fortnite&logoColor=white)
 
 #### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 #### 🎮 Game Development
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![UEFN](https://img.shields.io/badge/UEFN-313131?style=for-the-badge&logo=fortnite&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![UEFN](https://img.shields.io/badge/UEFN-313131?style=flat-square&logo=fortnite&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black)
 
-> 🚧 I'm always learning new tools and frameworks, so this section will keep evolving!
+</div>
 
 ---
 
-## 🎓 Certifications & Training
+### 🏆 Certifications
 
-### 🏆 Unreal Summer Camp 2025 - Prometeo Lab
-*Unreal Authorized Training Center - Gold Partner Epic Games*
+#### 🎓 [Unreal Engine Certified Developer](https://www.credential.net/5abc9486-2969-4c59-9bb9-c2dabe2ad657)
+*Unreal Summer Camp 2025 - Prometeo Lab (Gold Partner Epic Games)*
 
-[![Unreal Summer Camp Badge](https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=163927794)](https://www.credential.net/5abc9486-2969-4c59-9bb9-c2dabe2ad657)
-
-**Skills Acquired:**
-- Blueprint Programming & Game Architecture  
-- UI Design & User Input Management
-- Physics and Collision Handling
-- Event Driven & Object Oriented Programming
-- Project Workflow Management
-
-*Certification issued on October 6, 2025*
+> "Mastering Blueprint Programming, Game Architecture, Physics, and Event-Driven Systems."
 
 ---
 
 ### 🌟 Featured Projects
 
-#### 🎮 [Carlivery: A Letter to No One](https://adrianopaonessa.itch.io/carlivery-a-letter-to-no-one)
-A heartfelt paper-road puzzle game made with **Unreal Engine 5**.
-You control a hand-drawn car delivering letters of love and remembrance across an imaginary world.
-> *This project is very personal to me. A gentle reminder to cherish our loved ones while we can.*
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **[Carlivery: A Letter to No One](https://adrianopaonessa.itch.io/carlivery-a-letter-to-no-one)** | A heartfelt paper-road puzzle game about delivering letters. | `Unreal Engine 5` `Blueprints` |
+| **[Gillette Bomber Cup](https://gillettebombercup.com/)** | Official branded experience for Milan Games Week (2023 & 2024). | `UEFN` `Verse` |
+| **[Air Action Vigorsol](https://www.instagram.com/p/Cy5qPQyIfWH/)** | Custom ice-themed race map for the "Play it Fresh" contest. | `UEFN` `Verse` |
+| **[FiveM Launcher](https://github.com/adrianopaonessa/fivem-launcher)** | Custom C# launcher with reverse-engineered server access. | `C#` `WPF` `Reverse Engineering` |
 
-#### 🏆 [Gillette Bomber Cup 2023 & 2024](https://gillettebombercup.com/)
-**Official branded experience** developed with **UEFN** and **Verse** for Gillette's events at **Milan Games Week 2023 and 2024**.
-I handled gameplay programming and event mechanics using Fortnite's Verse language.
-📸 [Project Gallery](https://www.instagram.com/p/CzhNAuzqHO_/?img_index=1)
-
-#### 🚙 [Air Action Vigorsol 2023](https://www.instagram.com/p/Cy5qPQyIfWH/)
-**Official branded experience** for Vigorsol's "*Play it Fresh*" contest during Milan Games Week 2023.
-Developed a **custom ice-themed race map** in UEFN with Verse.
-📸 [Official Instagram Announcement](https://www.instagram.com/p/Cy5qPQyIfWH/)
-
-#### 🚨 [Simple Alert System](https://github.com/adrianopaonessa/simple-raspberrypi-alert)
-A Raspberry Pi + Windows notification system with visual feedback and auto-reconnection features.
+👉 **[View all projects on my website](https://adrianopaonessa.it/projects)**
 
 ---
+
+<div align="center">
 
 ### 📫 Let's Connect
-- 📧 **Email**: [adrianopaonessa20@gmail.com](mailto:adrianopaonessa20@gmail.com)
-- 💼 **LinkedIn**: [Adriano Paonessa](https://www.linkedin.com/in/adriano-paonessa/)
-- 📸 **Instagram**: [@adriano.paonessa](https://www.instagram.com/adriano.paonessa/)
-- 💬 **Discord**: adriano.paonessa (Just send a friend request, Discord doesn't have a friend link)
 
----
+[![Website](https://img.shields.io/badge/Website-adrianopaonessa.it-10b981?style=for-the-badge&logo=google-chrome&logoColor=black)](https://adrianopaonessa.it)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adriano%20Paonessa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-paonessa/)
+[![Instagram](https://img.shields.io/badge/Instagram-@adriano.paonessa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adriano.paonessa/)
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianopaonessa&show_icons=true&title_color=4CAF50&text_color=ffffff&icon_color=4CAF50&border_color=4CAF50&bg_color=00000000&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianopaonessa&layout=compact&title_color=4CAF50&text_color=ffffff&border_color=4CAF50&bg_color=00000000&hide_border=false)
+</div>
 
-*📝 Note: These stats are based solely on my public repositories and may not fully reflect my overall skills or private project work.*
+<br>
 
----
-
-> *"If you're going to make something, make it with heart."*
-> -- Me, probably :3
+<div align="center">
+  <i>"If you're going to make something, make it with heart."</i><br>
+  -- Me, probably :3
+</div>
