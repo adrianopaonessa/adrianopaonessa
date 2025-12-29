@@ -87,7 +87,7 @@ I specialize in bridging the gap between technical complexity and creative story
 | **[Carlivery: A Letter to No One](https://adrianopaonessa.itch.io/carlivery-a-letter-to-no-one)** | A heartfelt paper-road puzzle game about delivering letters. | `Unreal Engine 5` `Blueprints` |
 | **[Gillette Bomber Cup](https://gillettebombercup.com/)** | Official branded experience for Milan Games Week (2023 & 2024). | `UEFN` `Verse` |
 | **[Air Action Vigorsol](https://www.instagram.com/p/Cy5qPQyIfWH/)** | Custom ice-themed race map for the "Play it Fresh" contest. | `UEFN` `Verse` |
-| **[FiveM Launcher](https://github.com/adrianopaonessa/fivem-launcher)** | Custom C# launcher with reverse-engineered server access. | `C#` `WPF` `Reverse Engineering` |
+| **FiveM Launcher** | Custom C# launcher with reverse-engineered server access. | `C#` `WPF` `Reverse Engineering` |
 
 **[View all projects on my website](https://adrianopaonessa.it/projects)**
 
