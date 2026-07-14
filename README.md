@@ -5,7 +5,7 @@
   **Named after [Adriano Celentano](https://en.wikipedia.org/wiki/Adriano_Celentano), but I code instead of singing ^^;**
 
   <h3>
-    Creative Technologist · Game Engineer · Full-Stack Developer
+    Game Engineer · Full-Stack Developer
   </h3>
 
   <p>
