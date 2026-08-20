@@ -30,7 +30,7 @@ I am a Software Engineer and Computer Science student with **15+ years of hands-
 Languages:        C++ · C# · TypeScript · JavaScript · Verse · GDScript · Python · SQL · C · ASM
 Game Engines:     Godot 4 · Unreal Engine 5 · UEFN (Fortnite Creative)
 Web & Runtime:    Vue 3 · Nuxt 3 · Node.js · Nitro · Tailwind CSS · Vite · REST API
-Systems & DevOps: Linux (Debian/Ubuntu) · Win32 API · Git · Docker · Nginx · PM2
+Systems & DevOps: Linux · Win32 API · Git · Docker · Nginx · PM2
 ```
 
 ---
