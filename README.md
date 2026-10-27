@@ -16,7 +16,7 @@ Right now I am studying Computer Science at university, focusing on algorithms, 
 
 ### // Featured Projects
 
-- **[A Bard Game](https://adrianopaonessa.it/projects/a-bard-game)**: 2D free-fall arcade roguelike built in Godot 4 with procedural hazard spawning, object pooling, and custom 2D physics. `[Play Beta ->](https://adrianopaonessa.it/abg-beta)`
+- **[A Bard Game](https://adrianopaonessa.it/projects/a-bard-game)**: 2D free-fall arcade roguelike built in Godot 4 with procedural hazard spawning, object pooling, and custom 2D physics. [Play Beta ->](https://adrianopaonessa.it/abg-beta)
 - **[Carlivery: A Letter for No One](https://adrianopaonessa.it/projects/carlivery)**: 3D papercraft puzzle game built from scratch in Unreal Engine 5 as my final certification project, featuring a custom Blueprint auto-tiling road tool and raycast grid navigation.
 - **[LinkFairing](https://adrianopaonessa.it/projects/linkfairing)**: Native Android app written in Kotlin and Jetpack Compose to organize and archive links locally, with background Open Graph extraction, biometric lock, and Markdown export.
 - **[WhatsApp Web Wrapper](https://github.com/adrianopaonessa/WhatsApp-Web-Wrapper)**: Lightweight native Linux desktop client for WhatsApp Web built with Rust, Tauri v2, and WebKitGTK, solving Wayland window state glitches and bridging notifications to D-Bus.
@@ -36,4 +36,4 @@ Right now I am studying Computer Science at university, focusing on algorithms, 
 
 ### // Certifications
 
-- **Unreal Engine 5 Certified Developer (UATC)**: Certified at Prometeo Lab, Unreal Authorized Training Center and official Epic Games Gold Training Partner (2025). `[Verify credential ->](https://www.credential.net/5abc9486-2969-4c59-9bb9-c2dabe2ad657)`
+- **Unreal Engine 5 Certified Developer (UATC)**: Certified at Prometeo Lab, Unreal Authorized Training Center and official Epic Games Gold Training Partner (2025). [Verify credential ->](https://www.credential.net/5abc9486-2969-4c59-9bb9-c2dabe2ad657)
