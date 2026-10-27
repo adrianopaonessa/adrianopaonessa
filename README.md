@@ -2,7 +2,7 @@
 
   # Adriano Paonessa.
 
-  **Engineering systems from the ground up. Curious by nature, unfiltered by default.**
+  **Developer, game maker, and CS student.**
 
   <br>
 
