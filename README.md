@@ -1,57 +1,39 @@
-<div align="center">
+# Adriano Paonessa
 
-  # Adriano Paonessa.
+Developer, game maker, and CS student.
 
-  **Developer, game maker, and CS student.**
-
-  <br>
-
-  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-adrianopaonessa.it-e11d48?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=09090b)](https://adrianopaonessa.it)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fadriano--paonessa-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=09090b)](https://www.linkedin.com/in/adriano-paonessa/)
-  [![Instagram](https://img.shields.io/badge/Instagram-@adriano.paonessa-e4405f?style=for-the-badge&logo=instagram&logoColor=white&labelColor=09090b)](https://instagram.com/adriano.paonessa)
-
-</div>
-
-<br>
-
-### About Me
-
-I am a Software Engineer and Computer Science student with **15+ years of hands-on programming experience** (writing code since age 5). My focus bridges low-level systems engineering, real-time game architecture, and high-performance web applications.
-
-* **Game Development & Systems:** Authoring custom gameplay mechanics, memory scanning tools, network daemons, and physics systems in **Godot 4**, **Unreal Engine 5**, and **UEFN (Verse)**.
-* **Full-Stack & Edge Web:** Engineering ultra-fast, reactive web applications with **TypeScript**, **Nuxt 3**, **Vue.js**, and modern serverless/Nitro runtime architectures.
-* **Low-Level & Tooling:** Developing reverse-engineering tools, custom game launchers, and multi-client TCP/IP daemons using **C++**, **C# (.NET / Win32)** and more.
+[adrianopaonessa.it](https://adrianopaonessa.it) || [LinkedIn](https://www.linkedin.com/in/adriano-paonessa/) || [Instagram](https://instagram.com/adriano.paonessa)
 
 ---
 
-### Tech Stack & Tooling
+### // Background
 
-```
-Languages:        C++ · C# · TypeScript · JavaScript · Verse · GDScript · Python · SQL · C · ASM
-Game Engines:     Godot 4 · Unreal Engine 5 · UEFN (Fortnite Creative)
-Web & Runtime:    Vue 3 · Nuxt 3 · Node.js · Nitro · Tailwind CSS · Vite · REST API
-Systems & DevOps: Linux · Win32 API · Git · Docker · Nginx · PM2
-```
+I wrote my first lines of code when I was 5 years old. Over the years I have worked across different areas: inspecting game processes and memory, writing multithreaded TCP/IP socket servers in C++, building desktop and mobile apps with .NET, Kotlin, and Rust, and programming live tournament maps for Milan Games Week in Verse and UEFN.
+
+Right now I am studying Computer Science at university, focusing on algorithms, data structures, and computer architecture. Outside of classes, I spend my time developing _A Bard Game_ in Godot 4 and building projects in Unreal Engine 5.
 
 ---
 
-### Certifications
+### // Featured Projects
 
-#### [Unreal Engine Certified Developer](https://www.credential.net/5abc9486-2969-4c59-9bb9-c2dabe2ad657)
-*Unreal Summer Camp 2025 · Prometeo Lab (Epic Games Gold Partner)*
-> *"Mastering Blueprint Programming, Game Architecture, Physics, and Event-Driven Systems."*
-
----
-
-### Selected Works
-
-* **[A Bard Game (Beta)](https://adrianopaonessa.it/abg-beta)** - Chaotic arcade free-fall roguelike developed in Godot 4.
-* **[Gillette Bomber Cup](https://adrianopaonessa.it/projects/gillette-bomber-cup)** - Competitive tournament island in UEFN for Gillette & PG Esports.
-* **[Vigorsol Air Action](https://adrianopaonessa.it/projects/vigorsol-air-action)** - Branded interactive experience and custom mechanics in UEFN.
-* **[CarLivery](https://adrianopaonessa.it/projects/carlivery)** - Full-stack multi-role vehicle logistics and delivery platform.
+- **[A Bard Game](https://adrianopaonessa.it/projects/a-bard-game)**: 2D free-fall arcade roguelike built in Godot 4 with procedural hazard spawning, object pooling, and custom 2D physics. `[Play Beta ->](https://adrianopaonessa.it/abg-beta)`
+- **[Carlivery: A Letter for No One](https://adrianopaonessa.it/projects/carlivery)**: 3D papercraft puzzle game built from scratch in Unreal Engine 5 as my final certification project, featuring a custom Blueprint auto-tiling road tool and raycast grid navigation.
+- **[LinkFairing](https://adrianopaonessa.it/projects/linkfairing)**: Native Android app written in Kotlin and Jetpack Compose to organize and archive links locally, with background Open Graph extraction, biometric lock, and Markdown export.
+- **[WhatsApp Web Wrapper](https://github.com/adrianopaonessa/WhatsApp-Web-Wrapper)**: Lightweight native Linux desktop client for WhatsApp Web built with Rust, Tauri v2, and WebKitGTK, solving Wayland window state glitches and bridging notifications to D-Bus.
+- **[Gillette Bomber Cup](https://adrianopaonessa.it/projects/gillette-bomber-cup)**: Capture-the-zone tournament map built in UEFN and Verse for 16 competitive teams live on stage at Milan Games Week 2023.
+- **[Metamask](https://adrianopaonessa.it/projects/metamask)**: VR wave survival game built in Unity and C# with OpenXR for Global Game Jam 2026 (Best Gameplay Award), based on 3D spatial audio and bullet-time head dodging.
 
 ---
 
-<div align="center">
-  <sub>Built with focus and precision. Explore full case studies and interactive timeline on <b><a href="https://adrianopaonessa.it">adrianopaonessa.it</a></b></sub>
-</div>
+### // Stack & Tools
+
+- **Languages**: C++, Rust, C#, Kotlin, TypeScript, Verse, GDScript, Python, C, SQL
+- **Engines & Graphics**: Unreal Engine 5, Godot 4, Unity (OpenXR), UEFN
+- **Native, Mobile & Web**: Tauri v2, Jetpack Compose, .NET MAUI, Blazor, Astro, Nuxt, Vue 3, Tailwind CSS
+- **Systems & Environment**: Linux (Wayland), Win32 API, WebKitGTK, Docker, Git
+
+---
+
+### // Certifications
+
+- **Unreal Engine 5 Certified Developer (UATC)**: Certified at Prometeo Lab, Unreal Authorized Training Center and official Epic Games Gold Training Partner (2025). `[Verify credential ->](https://www.credential.net/5abc9486-2969-4c59-9bb9-c2dabe2ad657)`
